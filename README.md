@@ -11,7 +11,7 @@ A login form using hapi-auth-register, hapi-auth-login &amp; hapi-auth-jwt2 with
 
 # 1 - Setup on Cloud9
 - Create a Cloud9 Account
-- Fork the Github repo (https://github.com/heroku/app-innovation) to your github account.
+- Fork the Github repo <a href="https://github.com/heroku/app-innovation" target="_blank" style="font-weight:bold">github.com/heroku/app-innovation</a> to your github account.
 - On Cloud9 console clone the repo e.g. if you are cloning from heroku/app-innovation-workshop you will use the following command:
 ```
 git clone https://github.com/heroku/app-innovation
