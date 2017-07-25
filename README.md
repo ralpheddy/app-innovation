@@ -1,7 +1,7 @@
 # Heroku App Innovation Workshop
 
 # Adding Heroku Button for Simple Deploy
-<a href="https://heroku.com/deploy">
+<a href="https://heroku.com/deploy" target="_blank">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
